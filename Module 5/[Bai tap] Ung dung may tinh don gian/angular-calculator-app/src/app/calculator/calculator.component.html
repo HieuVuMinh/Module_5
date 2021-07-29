@@ -1,0 +1,15 @@
+<input type="number" [(ngModel)]="calculator.numberA">
+<br>
+<input type="number" [(ngModel)]="calculator.numberB">
+<br>
+<select [(ngModel)]="calculator.operator">
+  <option value='+'>Cộng</option>
+  <option value='-'>Trừ</option>
+  <option value='*'>Nhân</option>
+  <option value='/'>Chia</option>
+</select>
+
+<button type="button" (click)="getResult()">Calculate</button>
+
+<p>Result: {{calculator.result}}</p>
+

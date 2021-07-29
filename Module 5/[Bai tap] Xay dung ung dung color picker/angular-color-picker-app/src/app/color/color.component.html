@@ -1,0 +1,4 @@
+<div *ngFor="let hexColor of hexColors" style="width: 100px; height: 100px;" [style.background-color]="hexColor.hex"
+     (click)="getHex(hexColor.name)" ></div>
+
+<P>Color: {{choosenColor}} </P>

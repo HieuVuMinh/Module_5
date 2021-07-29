@@ -1,0 +1,19 @@
+<div>
+  <h2>Article Information</h2>
+  <form>
+    <table>
+      <tr>
+        <td>Title:</td>
+        <td><textarea name="title" [(ngModel)]="article.title" cols="70"></textarea></td>
+      </tr>
+      <tr>
+        <td>URL:</td>
+        <td><textarea name="url" [(ngModel)]="article.url" cols="70"></textarea></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td><button style="float: right"  (click)="create()">Add</button></td>
+      </tr>
+    </table>
+  </form>
+</div>

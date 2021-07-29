@@ -1,0 +1,10 @@
+<app-navbar (showArticleCreate)="showCreateForm($event)"></app-navbar>
+<h2>Today's article</h2>
+<hr>
+<div *ngFor="let art of articles">
+  <a href="{{art.url}}" target="_blank">{{art.title}}</a>: <app-like></app-like>
+</div>
+<hr>
+
+<app-create *ngIf="isShowArticleForm" (articleEventEmitter)="addNewArticle($event)"></app-create>
+@CodeGym, 2021

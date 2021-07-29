@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7118b6f-93e0-4484-9992-8ee1f7db4986" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/article.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/article/article.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/article/article.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/article/article.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/article/article.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/like/like.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/like/like.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/like/like.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/like/like.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/navbar/navbar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/navbar/navbar.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/navbar/navbar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/app/navbar/navbar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-hackernews-app/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Name-Card/angular-name-card/src/app/name-card/name-cars.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Name-Card/angular-name-card/src/app/name-card/name-cars.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Name-Card/angular-name-card/src/app/name-card/name-cars.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Name-Card/angular-name-card/src/app/name-card/name-cars.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung Progress Bar/angular-progress-bar/tslint.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1vWckjHoAAVTtZ7nl2d8RAKWtYS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7118b6f-93e0-4484-9992-8ee1f7db4986" name="Default Changelist" comment="" />
+      <created>1626681431151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626681431151</updated>
+      <workItem from="1626681432374" duration="159000" />
+      <workItem from="1626706226476" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
